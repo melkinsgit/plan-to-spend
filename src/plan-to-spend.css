@@ -1,4 +1,4 @@
-.App {
+.plan-to-spend {
   text-align: center;
 }
 
@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.plan-to-spend-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -24,7 +24,7 @@
   color: white;
 }
 
-.App-link {
+.plan-to-spend-link {
   color: #61dafb;
 }
 
